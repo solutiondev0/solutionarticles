@@ -1,16 +1,9 @@
-## const mdcode = `
 
-title: "Tầm quan trọng của website trong thời đại số"
-date: "2025-09-09"
-tags: ["web", "digital", "service", "marketing", "business"]
-
----
 
 # Website – Cầu nối số giữa doanh nghiệp và khách hàng 🌐
 
 Trong kỷ nguyên số, **website không chỉ là một công cụ online**, mà còn là **bộ mặt thương hiệu, kênh bán hàng, và công cụ marketing mạnh mẽ**. Một website chuyên nghiệp mang lại lợi ích vượt trội, tăng uy tín, mở rộng thị trường và nâng cao doanh số.
 
----
 
 ## 1. Website giúp xây dựng thương hiệu 24/7
 
