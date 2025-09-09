@@ -1,6 +1,6 @@
 
 
-# Website – Cầu nối số giữa doanh nghiệp và khách hàng 🌐
+# Website – Cầu nối số giữa doanh nghiệp và khách hàng 
 
 Trong kỷ nguyên số, **website không chỉ là một công cụ online**, mà còn là **bộ mặt thương hiệu, kênh bán hàng, và công cụ marketing mạnh mẽ**. Một website chuyên nghiệp mang lại lợi ích vượt trội, tăng uy tín, mở rộng thị trường và nâng cao doanh số.
 
@@ -12,21 +12,6 @@ Khách hàng ngày nay thường **tìm kiếm thông tin trực tuyến trướ
 - Tăng uy tín và sự tin tưởng
 - Giúp khách hàng hiểu rõ sản phẩm/dịch vụ bạn cung cấp
 - Trưng bày portfolio, case study và feedback khách hàng
-
-\`\`\`ts
-// Ví dụ: React component hiển thị card sản phẩm
-import React from 'react';
-
-const ProductCard = ({ name, desc }) => (
-
-  <div className="product-card">
-    <h3>{name}</h3>
-    <p>{desc}</p>
-  </div>
-);
-
-export default ProductCard;
-\`\`\`
 
 ---
 
@@ -47,21 +32,6 @@ Thay vì chi nhiều tiền cho offline marketing, website kết hợp với **S
 - Xuất hiện trên Google → tăng traffic tự nhiên
 - Cung cấp nội dung chất lượng: blog, tutorial, case study
 - Phân tích hành vi khách hàng → tối ưu chiến lược kinh doanh
-
-\`\`\`ts
-// Ví dụ: React component hiển thị bài viết nổi bật
-import React from 'react';
-
-const FeaturedArticle = ({ title, summary }) => (
-
-  <div className="featured-card">
-    <h3>{title}</h3>
-    <p>{summary}</p>
-  </div>
-);
-
-export default FeaturedArticle;
-\`\`\`
 
 ---
 
@@ -108,5 +78,5 @@ Một doanh nghiệp nhỏ khi có website chuyên nghiệp:
 - Website: [https://soluti0n.dev/vi](https://soluti0n.dev/vi)
 - Email: contact@soluti0n.dev
 
-**Bắt đầu ngay hôm nay để doanh nghiệp của bạn bứt phá trong kỷ nguyên số!** 🚀
+**Bắt đầu ngay hôm nay để doanh nghiệp của bạn bứt phá trong kỷ nguyên số!** 
 `;
